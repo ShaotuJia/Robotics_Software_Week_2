@@ -1,0 +1,5 @@
+Command for transfer cmake project to eclipse project:
+
+cmake ../cpp-boilerplate/ -G"Eclipse CDT4 - Unix Makefiles" -DCMAKE_ECLIPSE_VERSION=4.7.0 -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER_ARG1=-std=c++14
+
+
